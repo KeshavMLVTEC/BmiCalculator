@@ -1,0 +1,38 @@
+
+body{
+    margin: 150px auto;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    background-color: #212121;
+    color: white;
+    font-family: monospace;
+    padding: 40px;
+    font-size:1.2rem;
+}
+h1{
+    text-align: center;
+}
+form{
+    display: flex;
+    justify-content: center;
+    justify-items:center;
+    align-items: center;
+
+}
+form input{
+    width: 40%;
+
+}
+button{
+    padding: 4px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+#results{
+    margin-left: 10px;
+}
